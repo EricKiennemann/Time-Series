@@ -3,7 +3,7 @@
 In this Repositary the used skills are
 
 ### Langage
-* R langage
+* R language
 
 ### Tools
 * linear regression
